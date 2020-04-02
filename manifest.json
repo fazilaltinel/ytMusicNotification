@@ -1,0 +1,15 @@
+{
+    "name": "ytMusicNotification",
+    "version": "1.0",
+    "description": "Youtube Music Desktop Notification Extension for Chrome",
+    "permissions": ["tabs", "http://music.youtube.com/*", "https://music.youtube.com/*", "notifications", "activeTab", "declarativeContent", "storage"],
+    "icons": { "128": "icon128.png" },
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "page_action": {
+        "default_popup": "main.html"
+    },
+    "manifest_version": 2
+  }
