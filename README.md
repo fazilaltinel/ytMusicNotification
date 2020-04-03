@@ -6,7 +6,7 @@ Chrome extension to get desktop notifications when the song changes in Youtube M
 
 After the extension installed, 
 
-- Open music.youtube.com on your browser or open the PWA for Youtube Music.
+- Open [music.youtube.com](https://music.youtube.com) on your browser or open the PWA for Youtube Music.
 - Activate the extension as shown in the image.
 
 ![](./img/1.png)
