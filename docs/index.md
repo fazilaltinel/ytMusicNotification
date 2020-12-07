@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# ytMusicNotification
 
-You can use the [editor on GitHub](https://github.com/fazilaltinel/ytMusicNotification/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Chrome extension to get desktop notifications when the song changes in Youtube Music.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Usage
 
-### Markdown
+After the extension installed, 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Open [music.youtube.com](https://music.youtube.com) on your browser or open the PWA for Youtube Music.
+- Activate the extension as shown in the image.
 
-```markdown
-Syntax highlighted code block
+![](../img/1.png)
 
-# Header 1
-## Header 2
-### Header 3
+If the extension is active, a new desktop notification with info about the song will be displayed when song changes as shown in the image below.
 
-- Bulleted
-- List
+![](../img/2.png)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fazilaltinel/ytMusicNotification/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License
+The source code is licensed under [GNU General Public License v3.0](./LICENSE).
